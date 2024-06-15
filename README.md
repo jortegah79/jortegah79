@@ -1,11 +1,12 @@
-Bienvenido! 
+Bienvenido a mi guarida. Mi nombre es Juan y soy full-stack deveLOVER.
+Mis conocimientos van desde PHP 8 y Laravel  o PHPSLIM  en la parte de servidor a Angular con Ionic en la parte de front.
 
-Me llamo Juan y soy desarrollador web.
-He terminado mis estudios de DAW en el IOC (Institut Obert de Catalunya) durante el mes de Junio de 2023.
+En este tiempo he trabajado para la confección de la plataforma TICKET&MEET  y en otras aplicaciones más pequeñas para empresas, para gestión de procesos o para ayudarles en la gestión diaria.
+Además he ayudado en la creación de una infraestructura para el control de riegos para la plataforma de la dreta del Llobregat, tocando la parte servidor y generando una aplicación móvil.
 
-Durante este tiempo he estudiado los lenguajes Java y Javascript, el framwwork Spring MVC y diversas otras cosas como SQL.
-He realizado mis prácticas y obtenido mi primer contrato en Clickame Networks S.L  como desarrollador Backend, utilizando mayoritariamente PHP (7.3 y superior)
- y aprendiendo  las bases del framework PHP-SLIM y de flutter.
+En este tiempo he disfrutado de cada momento que he tomado para poder aprender nuevas cosas y para afianzar lo ya conocido.
 
- Actualmente, estoy aprendiendo Angular js por mi cuenta para aumentar mis habilidades.
+Para cualquier contacto conmigo, mi correo es jortegah79@gmail.com.
 
+
+Un saludo.
