@@ -1,7 +1,7 @@
 Bienvenido a mi guarida. Mi nombre es Juan y soy full-stack deveLOVER.
 Mis conocimientos van desde PHP 8 y Laravel  o PHPSLIM  en la parte de servidor a Angular con Ionic en la parte de front.
 
-También conozco Mysql y lo utilizo median Mysqli o mediante Eloquent en Laravel.
+También conozco Mysql y lo utilizo mediante Mysqli o mediante Eloquent en Laravel.
 Utilizo activamente tanto Postman como Insomnia, y además de conocer y utilizar git, utilizo la herramienta git-kraken con soltura.
 
 En este tiempo he trabajado para la confección de la plataforma TICKET&MEET  y en otras aplicaciones más pequeñas para empresas, para gestión de procesos o para ayudarles en la gestión diaria.
